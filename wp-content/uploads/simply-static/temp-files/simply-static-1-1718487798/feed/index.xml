@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sample Website</title>
+	<atom:link href="https://sharaz1990.github.io/samplewebsite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sharaz1990.github.io/samplewebsite/</link>
+	<description>Work Smart!</description>
+	<lastBuildDate>Sat, 15 Jun 2024 21:23:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>https://sharaz1990.github.io/samplewebsite/wp-content/uploads/2024/06/cropped-cropped-Work-Smart-Hub-Logo-No-backgroud-v2-32x32.png</url>
+	<title>Sample Website</title>
+	<link>https://sharaz1990.github.io/samplewebsite/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Split Data</title>
+		<link>https://sharaz1990.github.io/samplewebsite/split-data/</link>
+					<comments>https://sharaz1990.github.io/samplewebsite/split-data/#respond</comments>
+		
+		<dc:creator><![CDATA[samplewebsite]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 21:23:00 +0000</pubDate>
+				<category><![CDATA[Python]]></category>
+		<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">https://sharaz1990.github.io/samplewebsite/?p=1058</guid>
+
+					<description><![CDATA[Split Excel Workbook into Multiple Files using Python!]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container " style="height: 100%;"><iframe title="Split Data | Split Excel file into multiple files using Python | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/OhFepZe68ik?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sharaz1990.github.io/samplewebsite/split-data/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Excel Dashboard</title>
+		<link>https://sharaz1990.github.io/samplewebsite/excel-dashboard/</link>
+					<comments>https://sharaz1990.github.io/samplewebsite/excel-dashboard/#respond</comments>
+		
+		<dc:creator><![CDATA[samplewebsite]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 21:20:42 +0000</pubDate>
+				<category><![CDATA[Excel Tutorials]]></category>
+		<category><![CDATA[exceldashboard]]></category>
+		<guid isPermaLink="false">https://sharaz1990.github.io/samplewebsite/?p=1054</guid>
+
+					<description><![CDATA[Learn Excel Financial Dashboard!]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container " style="height: 100%;"><iframe title="Excel Dashboard | Financial Dashboard | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/zIbkMgdGwPY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sharaz1990.github.io/samplewebsite/excel-dashboard/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Learn Excel</title>
+		<link>https://sharaz1990.github.io/samplewebsite/learn-excel/</link>
+					<comments>https://sharaz1990.github.io/samplewebsite/learn-excel/#respond</comments>
+		
+		<dc:creator><![CDATA[samplewebsite]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 21:19:39 +0000</pubDate>
+				<category><![CDATA[Excel Tutorials]]></category>
+		<category><![CDATA[excel]]></category>
+		<guid isPermaLink="false">https://sharaz1990.github.io/samplewebsite/?p=1050</guid>
+
+					<description><![CDATA[Learn Excel for Beginners!]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container " style="height: 100%;"><iframe title="EXCEL Tutorial | Beginner to Pro! Learn Dashboard | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/UA9EjYbsWJE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sharaz1990.github.io/samplewebsite/learn-excel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
