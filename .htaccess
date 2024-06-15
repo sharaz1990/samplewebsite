@@ -18,7 +18,7 @@ RewriteRule . /index.php [L]
 # The directives (lines) between "BEGIN Simply Static" and "END Simply Static" are
 # dynamically generated, and should only be modified via WordPress filters.
 # Any changes to the directives between these markers will be overwritten.
-<Files "D:\Flywheel\samplewebsitelocal\app\public/wp-content/uploads\simply-static\dd40f243d78f6f2ceed44beb0bd0de4d-debug.txt">
+<Files "D:\Flywheel\samplewebsitelocal\app\public/wp-content/uploads\simply-static\fca28a8a66d4446b449fae0fda6c4c18-debug.txt">
 require all denied
 require host localhost
 </Files>
